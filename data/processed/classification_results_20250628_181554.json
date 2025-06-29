@@ -1,0 +1,112 @@
+[
+  {
+    "document_id": 1,
+    "text": "Apple Inc. reported strong quarterly earnings driven by iPhone sales and services revenue growth.",
+    "predicted_label": "politics",
+    "confidence": 0.2113492488861084,
+    "model_version": "model_b",
+    "inference_time": 0.6423137187957764,
+    "timestamp": "2025-06-28T18:15:52.760701",
+    "actual_label": "business",
+    "correct": false
+  },
+  {
+    "document_id": 2,
+    "text": "The new AI breakthrough in natural language processing could revolutionize how we interact with comp...",
+    "predicted_label": "technology",
+    "confidence": 0.22067880630493164,
+    "model_version": "model_b",
+    "inference_time": 0.041666269302368164,
+    "timestamp": "2025-06-28T18:15:52.803390",
+    "actual_label": "technology",
+    "correct": true
+  },
+  {
+    "document_id": 3,
+    "text": "The Lakers defeated the Warriors 112-108 in an exciting overtime finish at Staples Center.",
+    "predicted_label": "technology",
+    "confidence": 0.22255870699882507,
+    "model_version": "model_b",
+    "inference_time": 0.03928399085998535,
+    "timestamp": "2025-06-28T18:15:52.842734",
+    "actual_label": "sports",
+    "correct": false
+  },
+  {
+    "document_id": 4,
+    "text": "The upcoming superhero movie broke box office records in its opening weekend worldwide.",
+    "predicted_label": "politics",
+    "confidence": 0.311375230550766,
+    "model_version": "model_a",
+    "inference_time": 0.39864373207092285,
+    "timestamp": "2025-06-28T18:15:53.241841",
+    "actual_label": "entertainment",
+    "correct": false
+  },
+  {
+    "document_id": 5,
+    "text": "Congress passed the new infrastructure bill with bipartisan support after months of negotiations.",
+    "predicted_label": "politics",
+    "confidence": 0.24296365678310394,
+    "model_version": "model_a",
+    "inference_time": 0.2237236499786377,
+    "timestamp": "2025-06-28T18:15:53.465966",
+    "actual_label": "politics",
+    "correct": true
+  },
+  {
+    "document_id": 6,
+    "text": "Tesla's stock price surged after announcing record delivery numbers for the quarter.",
+    "predicted_label": "politics",
+    "confidence": 0.22019463777542114,
+    "model_version": "model_b",
+    "inference_time": 0.03708815574645996,
+    "timestamp": "2025-06-28T18:15:53.503459",
+    "actual_label": "business",
+    "correct": false
+  },
+  {
+    "document_id": 7,
+    "text": "Researchers developed a new quantum computing algorithm that could solve complex optimization proble...",
+    "predicted_label": "technology",
+    "confidence": 0.2309451848268509,
+    "model_version": "model_b",
+    "inference_time": 0.03699445724487305,
+    "timestamp": "2025-06-28T18:15:53.540490",
+    "actual_label": "technology",
+    "correct": true
+  },
+  {
+    "document_id": 8,
+    "text": "Manchester United signed a new midfielder in a record-breaking transfer deal worth $100 million.",
+    "predicted_label": "business",
+    "confidence": 0.26016589999198914,
+    "model_version": "model_a",
+    "inference_time": 0.2274158000946045,
+    "timestamp": "2025-06-28T18:15:53.768312",
+    "actual_label": "sports",
+    "correct": false
+  },
+  {
+    "document_id": 9,
+    "text": "The film festival showcased independent movies from emerging directors around the world.",
+    "predicted_label": "sports",
+    "confidence": 0.2292163223028183,
+    "model_version": "model_a",
+    "inference_time": 0.22825837135314941,
+    "timestamp": "2025-06-28T18:15:53.996931",
+    "actual_label": "entertainment",
+    "correct": false
+  },
+  {
+    "document_id": 10,
+    "text": "The Senate committee held hearings on the proposed healthcare reform legislation.",
+    "predicted_label": "technology",
+    "confidence": 0.22473818063735962,
+    "model_version": "model_b",
+    "inference_time": 0.03499722480773926,
+    "timestamp": "2025-06-28T18:15:54.032292",
+    "actual_label": "politics",
+    "correct": false
+  }
+]

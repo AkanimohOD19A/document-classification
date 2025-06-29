@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "text": "Apple Inc. reported strong quarterly earnings driven by iPhone sales and services revenue growth.",
+    "label": "business"
+  },
+  {
+    "id": 2,
+    "text": "The new AI breakthrough in natural language processing could revolutionize how we interact with computers.",
+    "label": "technology"
+  },
+  {
+    "id": 3,
+    "text": "The Lakers defeated the Warriors 112-108 in an exciting overtime finish at Staples Center.",
+    "label": "sports"
+  },
+  {
+    "id": 4,
+    "text": "The upcoming superhero movie broke box office records in its opening weekend worldwide.",
+    "label": "entertainment"
+  },
+  {
+    "id": 5,
+    "text": "Congress passed the new infrastructure bill with bipartisan support after months of negotiations.",
+    "label": "politics"
+  },
+  {
+    "id": 6,
+    "text": "Tesla's stock price surged after announcing record delivery numbers for the quarter.",
+    "label": "business"
+  },
+  {
+    "id": 7,
+    "text": "Researchers developed a new quantum computing algorithm that could solve complex optimization problems.",
+    "label": "technology"
+  },
+  {
+    "id": 8,
+    "text": "Manchester United signed a new midfielder in a record-breaking transfer deal worth $100 million.",
+    "label": "sports"
+  },
+  {
+    "id": 9,
+    "text": "The film festival showcased independent movies from emerging directors around the world.",
+    "label": "entertainment"
+  },
+  {
+    "id": 10,
+    "text": "The Senate committee held hearings on the proposed healthcare reform legislation.",
+    "label": "politics"
+  }
+]

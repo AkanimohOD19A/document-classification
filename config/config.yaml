@@ -1,0 +1,43 @@
+# Model Config
+models:
+  version_a:
+    name: "./models/gpt2_classifier/checkpoint-30" #"microsoft/DialoGPT-medium"
+    version: "v2.0.0"
+    max_length: 512
+    num_labels: 5
+    model_type: "gpt2"  # Added for clarity
+  version_b:
+    name: "./models/distilbert_classifier/checkpoint-15" # "distilbert-base-uncased"
+    version: "v2.0.0"
+    max_length: 512
+    num_labels: 5
+    model_type: "distilbert"
+
+# Data Config
+data:
+  categories:
+    - "business"
+    - "technology"
+    - "sports"
+    - "entertainment"
+    - "politics"
+  batch_size: 32
+  test_split: 0.2
+
+# A/B Testing Config
+ab_testing:
+  traffic_split: 0.5
+  minimum_samples: 100
+  significance_level: 0.05
+
+# Monitoring Config
+monitoring:
+  metrics_interval: 100
+  performance_threshold: 0.8
+  latency_threshold: 1.0
+
+# Storage Config
+storage:
+  model_registry: "./models/registry/"
+  metrics_storage: "./monitoring/metrics/"
+  data_storage: "./data/"

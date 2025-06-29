@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-06-28T18:15:54.066659",
+  "results": {
+    "model_a_accuracy": 0.25,
+    "model_b_accuracy": 0.3333333333333333,
+    "model_a_latency": 0.2695103883743286,
+    "model_b_latency": 0.1387239694595337,
+    "sample_size_a": 4,
+    "sample_size_b": 6,
+    "p_value": 1.0,
+    "is_significant": false,
+    "winner": "insufficient_data"
+  }
+}

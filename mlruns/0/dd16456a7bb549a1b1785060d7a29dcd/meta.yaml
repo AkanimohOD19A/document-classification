@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AfrologicInsect/PycharmProjects/MLOPs_2_Document-Classification/mlruns/0/dd16456a7bb549a1b1785060d7a29dcd/artifacts
+end_time: 1751171605181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd16456a7bb549a1b1785060d7a29dcd
+run_name: ./models/distilbert_classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751171202245
+status: 3
+tags: []
+user_id: AfrologicInsect
