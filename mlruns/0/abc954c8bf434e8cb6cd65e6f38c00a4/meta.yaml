@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AfrologicInsect/PycharmProjects/MLOPs_2_Document-Classification/mlruns/0/abc954c8bf434e8cb6cd65e6f38c00a4/artifacts
+end_time: 1751977502284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abc954c8bf434e8cb6cd65e6f38c00a4
+run_name: ./models/gpt2_classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751976267057
+status: 3
+tags: []
+user_id: AfrologicInsect

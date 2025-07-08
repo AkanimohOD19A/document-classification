@@ -74,7 +74,7 @@ class DocumentClassificationTrainer:
         """Create comprehensive training data"""
 
         # Samples
-        with open("./data/training_samples.json", "r", encoding="utf-8") as f:
+        with open("junk/training_samples.json", "r", encoding="utf-8") as f:
             samples = json.load(f)
 
         business_texts = samples[0]['business']
