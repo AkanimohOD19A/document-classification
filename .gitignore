@@ -1,3 +1,4 @@
+models/models_export
 models/distilbert_classifier/
 models/gpt2_classifier/
 .docu_class_venv/
